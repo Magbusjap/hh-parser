@@ -1,0 +1,11 @@
+cd /var/www/bozheslav/python/hh_parser
+source venv/bin/activate
+pip freeze > requirements.txt
+```
+
+**.gitignore:**
+```
+venv/
+__pycache__/
+*.pyc
+.env
