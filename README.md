@@ -1,11 +1,11 @@
 # Парсер данных с сайта hh.ru
 
 Создан новый проект на языке python с применением Flask.
-Проект реализован для портфолио сайта [bozheslav.ru](https://bozheslav.ru) — [GitHub](https://github.com/Magbusjap/bozheslav.ru).
+Проект реализован для портфолио сайта [bozheslav.ru](https://bozheslav.com) — [GitHub](https://github.com/Magbusjap/bozheslav).
 
 ## 🔗 Live Example
 
-[Смотреть пример на сайте bozheslav.ru](https://bozheslav.ru/portfolio/pages/parser-dannykh-s-sayta-hhru)
+[Смотреть пример на сайте bozheslav.com](https://bozheslav.com/portfolio/pages/parser-dannykh-s-sayta-hhru)
 
 ## Стек
 
@@ -70,4 +70,4 @@ curl "http://127.0.0.1:5000/search?query=Laravel"
 
 ---
 
-<img src="https://bozheslav.ru/storage/media/mikgail-bozheslav-favicon-16x16.png" width="16" height="16" alt="bozheslav.ru favicon"> [Михаил Божеслав](https://bozheslav.ru)
+<img src="https://bozheslav.com/storage/media/mikgail-bozheslav-favicon-16x16.png" width="16" height="16" alt="bozheslav.com favicon"> [Михаил Божеслав](https://bozheslav.com)
